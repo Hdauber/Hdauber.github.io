@@ -1,0 +1,37 @@
+img{
+width: 400px;
+border-radius: 5px;
+margin: 10px 0px 10px 50PX;
+padding-right: 400px;
+position: left;
+
+}
+
+h1{
+	color: blue;
+	text-align: left;
+	margin-left: 50px;
+}
+h2 {
+	color: blue;
+}
+.part{ 
+	background-color:#E8E884;
+ }
+
+.intro{
+
+  text-align: center;
+  background-color: #B5B50A;
+  border-radius: 50px;
+  border: 1px solid #A2CE8A;
+  width: 60vw;
+  margin: auto;
+  padding: 28px;
+  margin-top: 300px;
+  
+
+}
+.contact {
+	background-color:#FCFC62;
+}
